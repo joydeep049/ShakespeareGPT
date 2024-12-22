@@ -22,7 +22,7 @@ for b in range(B):
 where we want our current token value `x[b,t]` to reflect the context of all
 the previous values in the sequence `x[b, : t+1]`
 
-<b?>Conceptual Example:</b>
+<b>Conceptual Example:</b></br>
 Let's assume you have a sequence of words, and you want each word's representation to include information about all the previous words in the sequence.
 
 For instance, if your sequence is ["I", "like", "pizza"], the model would compute:

@@ -1,0 +1,43 @@
+Scene: A Hall in a Nobleman’s House
+
+Enter LORDS and SOLDIERS, with trumpets sounding.
+
+FIRST LORD:
+The drums have ceased; the lion-hearted foe
+Bides silent now, as tempests after wrath.
+What say the scouts? Hath he retreated hence,
+Or gathers he his strength upon the hill?
+
+SECOND LORD:
+Not gone, my lord, but shadow’d by the dusk,
+He sits as thunder clouded in the night,
+To break upon the morrow with his force.
+The earth itself seems lean’d to hear his tread.
+
+FIRST SOLDIER:
+A curse upon his pride! The man would feast
+Upon the blood of all that call him foe,
+And yet would leave no morsel for his kin.
+
+SECOND SOLDIER:
+Aye, such a man as breeds no fellow here.
+His tongue is sharp as lances, yet his deeds
+Shall make the sharpest steel seem blunt and dull.
+
+FIRST LORD:
+Peace, peace! The warlike trumpet speaks again.
+We must not idle words while swords await.
+Let valour arm the heart, for this shall be
+A night that bends the stars to mortals’ fates.
+Come forth! To council, then, to arms anon.
+The world shall bear the scars of what we do.
+
+Exeunt all but ONE SOLDIER.
+
+SOLDIER:
+O cruel day! Where honour is but dust,
+And men are torn like leaves upon the gale.
+Would I could flee this strife and find some peace,
+But peace itself is banish’d from the earth.
+
+Exit.
